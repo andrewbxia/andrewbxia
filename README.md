@@ -1,4 +1,4 @@
 i eet chair sawce\
-too lazy to write more, just go to my personal website if u want any more pii about me
+too lazy to write more, just go to my personal website if u want any more pii about me :p
 - [axia.sh](https://axia.sh)
 
