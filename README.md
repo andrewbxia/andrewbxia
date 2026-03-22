@@ -6,7 +6,7 @@ too lazy to write more, just go to my personal website if u want any more pii ab
 ![Profile Views](https://komarev.com/ghpvc/?username=andrewbxia&color=blueviolet)
 
 ## projjs im semi-proud of (kinda in order):
-- [axia.sh (links to the repositroy)](github.com/andrewbxia/axia.sh/)
+- [axia.sh (links to the repositroy)](https://github.com/andrewbxia/axia.sh/)
   - my personal static website/blog; a passion project that I enjoy spending a little bit of time on every week
 - [about-me cuboid](https://axia.sh/work/) | [link to repository](https://github.com/andrewbxia/axia.sh/tree/master/work)
   - witness six (uncompleted) facets of me while inside a cube thing (motion sickness warning!)
