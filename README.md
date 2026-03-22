@@ -1,6 +1,6 @@
 i eet chair sawce\
 too lazy to write more, just go to my personal website if u want any more pii about me :p
-- [axia.sh](https://axia.sh/) <- click around!
+- [axia.sh](https://axia.sh/) <- click around! i put a lot of juicy widgets in here!
   - [sign my guestbook! :)](https://axia.atabook.org)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=andrewbxia&color=blueviolet)
