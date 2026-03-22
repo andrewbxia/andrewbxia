@@ -1,4 +1,4 @@
-i eet chair sawce\
+i eet chair sawce ඞඞඞඞඞඞඞඞ\
 too lazy to write more, just go to my personal website if u want any more pii about me :p
 - [axia.sh](https://axia.sh/) <- click around! i put a lot of juicy widgets in here!
   - [sign my guestbook! :)](https://axia.atabook.org)
