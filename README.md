@@ -12,7 +12,7 @@ too lazy to write more, just go to my personal website if u want any more pii ab
   - witness six (uncompleted) facets of me while inside a cube thing (motion sickness warning!)
     - click on menu in bottom-right corner to switch viewing modes
 - [game of life](https://github.com/andrewbxia/gof-sparse/)
-  - sparse implementation of conway's game of life, with text inputs
+  - sparse implementation of conway's game of life in rust, with text inputs and intentional u8 integer overflow!
 - [fourier path thingy](https://axia.sh/pages/fft/) | [link to repository](https://github.com/andrewbxia/axia.sh/tree/master/pages/fft/)
   - drawing thingy that performs a fourier series on mouse or touch inputs to try following it as close as possible
   - omg researching literature on the FFT to make this took so long but it's so satisfying seeing it finally work
